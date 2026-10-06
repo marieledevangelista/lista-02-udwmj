@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.noticia {
+    background-color: #f4f4f4;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    max-width: 500px;
+    padding: 20px;
+}
+
+.data {
+    color: #666666;
+}
